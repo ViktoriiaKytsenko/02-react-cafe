@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
- Live demo: https://02-react-cafe-omega-bay.vercel.app
+**Live page**: [Open project on Vercel](https://02-react-cafe-39c1mj2h8-viktoriia-kytsenkos-projects.vercel.app)
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
